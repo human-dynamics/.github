@@ -6,8 +6,7 @@ This is the central hub for the component projects of the Pacific Northwest Nati
 (currently private until publication)
 
 US county-level population projection
-* [Derivation of base year data: domestic migration](https://github.com/bconeill88/acs_analysis) - Draws on data from the American Community Survey (ACS, both published tables and microdata) to estimate age- and sex-specific migration rates from county to county.
-* [Scenario design](https://github.com/bconeill88/scenario_design) - Develops eight scenarios of fertility, mortality, and domestic and international migration to use as input to the population projection model. Scenarios are based on the base year data derived in other projects linked above and existing projections of summary measures (Total Fertility Rate, Life Expectancy, Net International Migration) from the Shared Socioeconomic Pathways (SSPs), United Nations, and US Census Bureau.
+* [Population projection input data](https://github.com/human-dynamics/countypop_input_data) - Develops input data for the US county population projection model, including base year data for population, fertility, mortality, domestic migration, and international migration, and alternative scenarios of summary measures of fertility, mortality, and migration.
 * [Population projection](https://github.com/yingzhangpnnl/countypop) - Projects US population by county, age, and sex for 2025-2100 based on the scenarios of fertility, mortality, and migration designed in the project above.
 
 US county-level housing unit projection
